@@ -1,0 +1,19 @@
+.container {
+  width: 90%;
+  margin: auto;
+}
+.home__content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  color: #0d0d21;
+  background-color: "#fff";
+  text-align: center;
+}
+
+.home__btn {
+  background-color: #2dd882;
+  color: #fff;
+  padding: 10px;
+  border-radius: 7px;
+}

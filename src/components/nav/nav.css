@@ -1,0 +1,39 @@
+.nav__container {
+  width: 90%;
+  margin: auto;
+  padding: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.brand__col {
+  display: inline;
+
+  font-size: 18px;
+}
+.brand__col__link {
+  color: #2dd882 !important;
+  font-style: italic;
+}
+
+.nav__col {
+  display: inline;
+}
+
+.toggle__btn {
+  padding: 0;
+  color: #2dd882;
+}
+
+.nav__menu {
+  width: 100%;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+.nav__items {
+  color: #0d0d21;
+  text-decoration: none;
+  margin-top: 20px;
+}
